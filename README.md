@@ -32,4 +32,4 @@ Keywords. human cytomegalovirus; mRNA-1647 vaccine; pentametric complex (PC); du
 
 **Dataset explanation**
 
-The file 
+The file "JID_Moderna_m1647_dataset_consolidated" contains the complete dataset used to create figures 1-6, supplementary figures 6-17, and supplementary tables 1, 2, and 4.
